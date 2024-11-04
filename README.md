@@ -61,7 +61,7 @@ L'application met en avant l'utilisation des **Reactive Forms** d'Angular, en re
 - **Angular 18** : Framework principal pour le développement de l'application.
 - **Angular Material** : Librairie de composants pour le design de l'interface utilisateur.
 - **Reactive Forms** : Module d'Angular pour la gestion avancée des formulaires.
-- **API REST** : Communication avec le backend [API-library-spring](https://github.com/nom-utilisateur/API-library-spring).
+- **API REST** : Communication avec le backend [API-library-spring](https://github.com/TonyLaPoche/API-library-spring).
 
 ## Bonnes Pratiques
 
