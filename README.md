@@ -4,7 +4,7 @@
 
 ## Description
 
-Angular Library Manager est une application front-end développée avec **Angular 18** et **Angular Material**. Son objectif est de fournir une interface utilisateur pour gérer et manipuler les données d'une bibliothèque en interagissant avec les endpoints d'une API (projet lié : [API-library-spring](https://github.com/nom-utilisateur/API-library-spring)).
+Angular Library Manager est une application front-end développée avec **Angular 18** et **Angular Material**. Son objectif est de fournir une interface utilisateur pour gérer et manipuler les données d'une bibliothèque en interagissant avec les endpoints d'une API (projet lié : [API-library-spring](https://github.com/TonyLaPoche/API-library-spring)).
 
 L'application met en avant l'utilisation des **Reactive Forms** d'Angular, en respectant les bonnes pratiques de gestion de formulaires pour garantir une expérience utilisateur fluide et performante. Angular Material est intégré pour créer une interface esthétique, accessible et moderne.
 
@@ -83,9 +83,9 @@ Les contributions sont les bienvenues ! Veuillez consulter les issues du projet 
 
 Ce projet est sous licence MIT. Pour plus de détails, consultez le fichier `LICENSE`.
 
-## Auteurs
-
-- [Tony La Poche](https://github.com/tonylapocher) - Développeur principal
-- [portfolio](https://antoineterrade.com) - Portfolio de Antoine Terrade (alias TonyLaPoche)
 ---
 
+## Auteurs
+
+- [Tony La Poche](https://github.com/TonyLaPoche) - Développeur principal
+- [portfolio](https://antoineterrade.com) - Portfolio de Antoine Terrade (alias TonyLaPoche)
